@@ -22,7 +22,7 @@
 		</div>
 		
 		<div class="w3-display-container mySlides w3-animate-opacity">
-			<img class="w3-round-large" src="norvege.jpg" style="width:100%"/>
+			<img class="w3-round-large" src="Norvege.jpg" style="width:100%"/>
 		</div>
 		
 		<button class="w3-light-grey w3-button w3-display-left" onClick="plusDivs(-1)">&#10094;</button>
