@@ -1,4 +1,4 @@
-var next = "Fume un dragon.";
+var next = "Fume un dragon";
 function myFunction() {
     document.getElementById("p1").innerHTML = next;
 }
