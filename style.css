@@ -1,3 +1,14 @@
 .Font-Montserrat {
 	font-family: "Montserrat";
 }
+
+.ui-menu {
+	color: black;
+	background-color: #EFEFEF;
+	list-style-type: none;
+	box-shadow: 0px 1px 5px 0px rgba(110,110,110,1);
+}
+
+.ui-helper-hidden-accessible { 
+	display:none; 
+}
