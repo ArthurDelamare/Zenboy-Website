@@ -21,12 +21,25 @@ function showDivs(n) {
   x[slideIndex-1].style.display = "block";  
 }
 
+
+
+
 $(document).ready(function(){
   var tags = ["Hello", "Beluga", "Baleineau", "Babouin","Wati", "Cisco Family", "Zenboy", "Dragon"];
+  
   $("#SearchBar").autocomplete({
     source: tags
   });
 });
+
+var i = 0;
+while(i<2){
+  console.log(i);
+}
+
+
+
+
 
 function loadJSON(callback) {   
 
